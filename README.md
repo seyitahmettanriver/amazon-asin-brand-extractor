@@ -26,12 +26,6 @@ Amazon ASIN Brand Extractor is a userscript that retrieves brand information for
 4. Wait for the progress bar to complete.
 5. View the extracted brand names in the results box.
 
-## Technical Details
-- Uses `GM_xmlhttpRequest` for fetching Amazon product pages.
-- jQuery-powered UI for a smooth experience.
-- Extracts brand name from the `#bylineInfo` element.
-- Processes ASINs in batches of 2 for efficiency.
-
 ## Developer
 - **Seyit Ahmet TANRIVER**
 - Contact: [WhatsApp](https://wa.me/31637952159)
